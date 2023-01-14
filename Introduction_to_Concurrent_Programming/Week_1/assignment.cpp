@@ -7,7 +7,7 @@
 #include "core_functions.hpp"
 using namespace std;
 
-const string USERNAME = "Tanvir Singh Sethi";
+const string USERNAME = "tanvir";
 
 int main(int argc, char *argv[])
 {
